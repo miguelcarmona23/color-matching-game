@@ -1,2 +1,2 @@
-# color-matching-game
-A Color Matching Game
+# number-guessing-game
+A Number Guessing Game
